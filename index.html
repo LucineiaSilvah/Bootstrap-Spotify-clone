@@ -63,14 +63,44 @@
     <section id="home" class="d-flex">
       <div class="conteiner align-self-center ">
         <div class="row">
-          <div class="col-md-12 ">
-            <h1 >Musica para todos</h1>
-            <a href="#" class="btn  btn-lg btn-custom btn-free">
-              Aproveite o spotify Free
+          <div id="carousel-controles" class="carousel slide" data-ride="carousel"><!--Carousel -->
+            <div class="carousel-inner"><!--Inner -->
+              
+              <div class="carousel-item active">
+                <div class="col-md-12 ">
+                  <h1>As Melhores Rádios</h1>
+                
+                  <a href="#" class="btn btn-custom btn-premium">
+                   <i class="fa-solid fa-music" style="color: #f0f2f4;"></i> ouça agora
+                  </a>
+                </div>
+              </div>
+
+              <div class="carousel-item">
+                <div class="col-md-12 ">
+                  <h1 >Musica para todos</h1>
+                  <a href="#" class="btn btn-custom btn-free">
+                    Aproveite o spotify Free
+                  </a>
+                  <a href="#" class="btn btn-custom btn-premium">
+                    Obter spotify Premium
+                  </a>
+                </div>
+              </div>
+
+             
+
+            </div><!--/Inner -->
+
+            <!-- Controles -->
+            <a href="#carousel-controles" class="carousel-control-prev" data-slide="prev">
+              <span class="carousel-control-prev-icon"></span>
             </a>
-            <a href="#" class="btn  btn-lg btn-custom btn-premium">
-              Obter spotify Premium
+
+            <a href="#carousel-controles" class="carousel-control-next" data-slide="next">
+              <span class="carousel-control-next-icon"></span>
             </a>
+
           </div>
         </div>
       </div>
@@ -117,7 +147,117 @@
         </div>
       </div>
     </section>
+    <section id="recursos">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h2>Fácil</h2>
+            <h3>Buscar</h3>
+            <p>Já sabe o que quer escutar? É só produrar e apertar o play.</p>
 
+
+          
+
+            <h3>Navegar</h3>
+            <p>Veja os nossos lançamentos, o que está bombando nas paradas e as playlists para o seu monento.</p>
+
+
+     
+            <h3>Descobrir</h3>
+            <p>Curta músicas novas toda segunda-feira com uma playlist personalizada pra voçê. Ou relaxe e curta uma das rádios.</p>
+
+
+          </div>
+          <div class="col-md-8">
+            <div class="row rotacao">
+              <div class="col-md-6">
+                <img src="/img/iphone1.png" alt="" class="img-fluid d-none d-md-block">
+              </div>
+              <div class="col-md-6">
+                <img src="/img/iphone2.png" alt="" class="img-fluid d-none d-md-block">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer id="rodape">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+            <img src="/img/spotify.svg" alt="" width="150">
+          </div>
+          <div class="col-md-2">
+            <h6>company</h6>
+            <ul class="navbar-nav">
+              <li>
+                <a class="rodape-link"  href="#">Sobre</a>
+              </li>
+              <li>
+                <a class="rodape-link" href="#">Empregos</a>
+              </li>
+              <li>
+                <a class="rodape-link" href="#">Imprensa</a>
+              </li>
+              <li>
+                <a class="rodape-link" href="#">Novidades</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-2">
+            <h6>Comunidade</h6>
+            <ul class="navbar-nav">
+              <li>
+                <a class="rodape-link" href="#">Artistas</a>
+              </li>
+              <li>
+                <a class="rodape-link" href="#">Desenvolvedores</a>
+              </li>
+              <li>
+                <a class="rodape-link" href="#">Marcas</a>
+              </li>
+             
+            </ul>
+          </div>
+          <div class="col-md-2">
+           <h6>links uteis</h6>
+           <ul class="navbar-nav">
+            <li>
+              <a class="rodape-link" href="#">Ajuda</a>
+            </li>
+            <li>
+              <a class="rodape-link"  href="#">Presentes</a>
+            </li>
+            <li>
+              <a class="rodape-link" href="#">Player de web</a>
+            </li>
+           
+          </ul>
+          </div>
+          <div class="col-md-4">
+           <ul>
+            <li>
+              <a href="">
+                <img src="/img/instagram.png" alt="">
+              </a>
+
+            </li>
+            <li>
+              <a href="">
+                <img src="/img/twitter.png" alt="">
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <img src="/img/facebook.png" alt="">
+              </a>
+            </li>
+           </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

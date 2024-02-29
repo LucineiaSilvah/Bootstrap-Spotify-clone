@@ -4,7 +4,8 @@
 */
 html,body,#home{
  height: 100%;
- 
+ overflow-x: hidden;
+
 }
 
 
@@ -39,9 +40,11 @@ nav.nav-color{
 }
 .col-md-12{
   text-align: center;
-  
+
   
 }
+
+
 h1{
   font-weight: 900;
   letter-spacing:-0.05em;
@@ -82,7 +85,7 @@ background:white;
 .albuns{
   padding: 10px 0;
 }
-.serv-text h2,h3{
+#servicos h2,h3{
  color: #7c26f8;
  font-size: 3em;
  font-weight: 700;
@@ -95,7 +98,51 @@ background:white;
 .serv-text p{
   font-weight: 400;
 }
+#recursos{
+  color:  white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+#recursos  h3 {
+  color: #9bf0e1;
+  font-size: 2em;
+}
+#recursos  h2 {
+  font-size: 3em;
+  color:white;
+}
 
+.rotacao{
+  padding-left: 80px;
+  -ms-transform: rotate(30deg);
+  -webkit-transform:rotate(30deg);
+  transform: rotate(30deg);
+}
+#rodape{
+  position: relative;
+  background: #000;
+  padding: 20px 0;
+}
+#rodape   ul{
+  list-style: none;
+}
+#rodape h6{
+  color: rgb(104, 100, 100);
+  font-weight: bold;
+}
+.rodape-link{
+  color: white;
+
+}
+
+#rodape .col-md-4 li{
+  float: right;
+  margin: 0 5px;
+
+
+  
+}
 @media (max-width: 575.98px) {
   h1{
    font-size: 3em;
