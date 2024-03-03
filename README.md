@@ -1,3 +1,4 @@
+<div style="display: inline_block " align="center" >
 <h1>Projeto Spotify Clone</h1>
 <h2>Projeto realizado no Curso desenvolvimento web da Udemy</h2>
 <h3>ScreenShots:</h3>
@@ -16,6 +17,6 @@
 </ul>
 <p>Um projeto responsivo e com layout customizado, veja o projeto clicando no link abaixo:</p>
  Deploy:<a href="https://bootstrap-clone-spotify.netlify.app/" target="_blank">Spotify</a>
-
+</div
 
 
