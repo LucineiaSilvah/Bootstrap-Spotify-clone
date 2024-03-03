@@ -1,4 +1,4 @@
-<div style="display: inline_block " align="center" >
+<div style="display: inline_block ">
 <h1>Projeto Spotify Clone</h1>
 <h2>Projeto realizado no Curso desenvolvimento web da Udemy</h2>
 <h3>ScreenShots:</h3>
