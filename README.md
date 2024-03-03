@@ -1,10 +1,13 @@
 <h1>Projeto Spotify Clone</h1>
 <h2>Projeto realizado no Curso desenvolvimento web da Udemy</h2>
 <h3>ScreenShots:</h3>
-<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/7195ad0e-a25c-41bf-8a8c-134a100eec6f">
-<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/624f5219-653c-404c-8326-219940d47b22">
-<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/d3b9dea3-68b2-4f6f-8b8e-8f9685a7770c">
-<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/06e7a8c6-03d1-4c8b-9a08-7058a1418adf">
+<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/8a63b63f-9527-4313-8b59-b0164f9e2549"
+<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/293e40d1-723e-4e39-844d-6fe605b79afb"
+<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/eaf4bce6-6bea-4919-8105-90e24ad0dc4e"
+<img src="https://github.com/LucineiaSilvah/Bootstrap-Spotify-clone/assets/90657609/bbdcab8e-078e-40a2-a971-969a7eed1124"
+
+
+
 <h3>Tecnologias utilizados nesse projeto:</h3>
 
 <p>Um projeto responsivo e com layout customizado, veja o projeto clicando no link abaixo:</p>
