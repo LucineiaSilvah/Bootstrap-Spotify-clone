@@ -10,11 +10,14 @@
 
 
 <h3>Tecnologias utilizados nesse projeto:</h3>
-<ol>
+<div style="display: flex">
+  <ul style="list-style: none">
   <li><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"></li>
   <li><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"></li>
   <li><img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap"></li>
-</ol>
+</ul>
+</div>
+
 <p>Um projeto responsivo e com layout customizado, veja o projeto clicando no link abaixo:</p>
  Deploy:<a href="https://bootstrap-clone-spotify.netlify.app/" target="_blank">Spotify</a>
 </div
